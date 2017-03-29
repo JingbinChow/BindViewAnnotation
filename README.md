@@ -1,0 +1,3 @@
+# BindViewAnnotation
+一个使用java注解与反射的小Demo
+通过注解与反射实现findViewById的注解
