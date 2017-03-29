@@ -31,7 +31,7 @@ public class InitBindView {
             }
 
         } catch (Exception e) {
-
+            //捕获异常后处理
         }
 
     }
